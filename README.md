@@ -1,4 +1,4 @@
-#Job Posting Management System
+# Job Posting Management System
 
 This Vue.js-based application is designed for managing job listings, catering to both job seekers and employers. The project includes a range of components and features that allow users to add, edit, view, and delete job postings seamlessly.
 Key Features:
@@ -13,7 +13,7 @@ Key Features:
   -  Component Reusability: Modular components such as forms, cards, and layout sections, designed for easy reuse and customization.
   -  Navigation and Routing: Seamless navigation with Vue Router, allowing users to move between pages like job listings, add/edit forms, and detail views without reloading the page.
 
-#Technologies Used:
+## Technologies Used:
 
   -  Vue.js: A progressive JavaScript framework for building user interfaces.
   -  Vue Router: For managing navigation between views and pages.
